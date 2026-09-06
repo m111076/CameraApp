@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12120.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraApp", "CameraApp\CameraApp.csproj", "{140779C6-F9C8-4F06-BEC1-0D746D6B70FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraLibrary", "CameraLibrary\CameraLibrary.csproj", "{8F7AF7F4-052C-420D-AE94-DDA21DE9F521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{140779C6-F9C8-4F06-BEC1-0D746D6B70FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140779C6-F9C8-4F06-BEC1-0D746D6B70FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140779C6-F9C8-4F06-BEC1-0D746D6B70FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140779C6-F9C8-4F06-BEC1-0D746D6B70FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7AF7F4-052C-420D-AE94-DDA21DE9F521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7AF7F4-052C-420D-AE94-DDA21DE9F521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7AF7F4-052C-420D-AE94-DDA21DE9F521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7AF7F4-052C-420D-AE94-DDA21DE9F521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0AA4DF-C62E-4EBC-9A14-A19097428C81}
+	EndGlobalSection
+EndGlobal
